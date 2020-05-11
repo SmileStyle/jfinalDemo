@@ -2,3 +2,4 @@ jdbcUrl = jdbc:mysql://localhost/jfinal_demo?characterEncoding=utf8&zeroDateTime
 user = root
 password =123
 devMode = true
+6666
